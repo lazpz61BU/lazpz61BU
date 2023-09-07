@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lazpz61BU
+- 👋 Hi, I’m Laz
 - 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning Java Information systems.
 - 💞️ I’m looking to collaborate on projects that involve enterprise softwares that mimick the same functionalities such as Salesforce, Workday, Google, Amazon, Netflix. 
